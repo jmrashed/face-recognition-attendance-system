@@ -39,10 +39,11 @@ A Python-based attendance system using face recognition technology. This system 
 ### Screenshots
 | Screenshot | Description |
 |------------|-------------|
-| <img src="./assets/screenshots/Screenshot_2.png" width="300"> | Main interface with camera feed |
+| <img src="./assets/screenshots/face_deteched.png" width="300"> | Face detected |
+| <img src="./assets/screenshots/Screenshot_1.png" width="300"> | Main interface with camera feed |
+| <img src="./assets/screenshots/Screenshot_2.png" width="300"> | Main interface with student information |
 | <img src="./assets/screenshots/Screenshot_3.png" width="300"> | Face recognition in progress |
-| <img src="./assets/screenshots/Screenshot_4.png" width="300"> | Student information display |
-| <img src="./assets/screenshots/Screenshot_5.png" width="300"> | Attendance summary dashboard |
+
 
 ## Installation
 

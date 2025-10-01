@@ -1,0 +1,21 @@
+# Face Recognition Attendance System - Full Requirements
+# Install with: pip install -r requirements-full.txt
+
+# Core dependencies (required)
+opencv-python>=4.8.0
+numpy>=1.24.0
+cvzone>=1.6.0
+mysql-connector-python>=9.0.0
+
+# Face recognition (optional - requires CMake)
+# Uncomment after installing CMake from https://cmake.org/download/
+# face-recognition>=1.3.0
+# dlib>=19.7
+
+# Firebase (optional - for cloud storage)
+firebase-admin>=6.0.0
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
